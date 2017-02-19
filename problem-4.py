@@ -25,7 +25,4 @@ def checkPalindrome(n):
     if isPalindrome == True:
         #print digits
         return True
-
-
-
 main()
